@@ -1,2 +1,3 @@
 # Keylogger-in-Python
-This is a very simple keylogger created in Python
+This is a very simple keylogger created in Python.
+For Windows.
